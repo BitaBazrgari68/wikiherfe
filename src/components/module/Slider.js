@@ -8,8 +8,7 @@ import logo3 from '../../../public/images/sample3/logo3.png'
 import logo4 from '../../../public/images/sample4/logo4.png'
 import logo5 from '../../../public/images/sample5/logo5.png'
 import logo7 from '../../../public/images/sample7/logo7.png'
-import sample2 from '../../../public/images/sample2/sample2.WEBP'
-import shape3 from '../../../public/images/shape3.svg'
+
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 
