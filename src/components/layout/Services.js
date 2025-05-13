@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import Link from 'next/link'
-import shape4 from '../../../public/images/shape4.svg'
+
 import shape5 from '../../../public/images/shape5.svg'
 import { CgWebsite } from "react-icons/cg";
 import { FcAdvertising } from "react-icons/fc";
