@@ -4,7 +4,7 @@ import Image from 'next/image'
 import { AiOutlineInstagram } from "react-icons/ai";
 import { RiTelegramLine } from "react-icons/ri";
 import { SiWhatsapp } from "react-icons/si";
-import { FaAngleRight } from "react-icons/fa6";
+
 import { FaAngleLeft } from "react-icons/fa";
 import { BsTelephoneFill } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
