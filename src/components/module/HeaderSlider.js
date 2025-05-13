@@ -1,11 +1,6 @@
 "use client"
 
-import Image from "next/image";
-import headerslider1 from '../../../public/images/headerslider1.jpg'
-import headerslider2 from '../../../public/images/headerslider2.jpg'
-import image from '../../../public/images/image.WEBP'
 
-import image2 from '../../../public/images/image2.WEBP'
 
 import 'animate.css';
 // Import Swiper React components
