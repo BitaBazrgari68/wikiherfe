@@ -7,7 +7,7 @@ import { RiTelegram2Fill } from "react-icons/ri";
 import { FaWhatsapp } from "react-icons/fa6";
 import { IoLogoLinkedin } from "react-icons/io";
 import { FaPhone } from "react-icons/fa";
-import Image from 'next/image'
+
 
 import Link from 'next/link';
 
